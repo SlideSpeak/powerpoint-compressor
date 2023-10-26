@@ -1,7 +1,7 @@
 {
-  "name": "pptx-optimizer",
+  "name": "powerpoint-compressor",
   "version": "1.0.0",
-  "description": "A tool that optimize PowerPoint file size.",
+  "description": "A CLI tool to compress PowerPoint (pptx) files written in JavaScript for NodeJS.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
