@@ -1,5 +1,7 @@
 # PowerPoint Compressor for NodeJS
 
+![gh-banner-compress-powerpoint](https://github.com/SlideSpeak/pptx-optimizer/assets/5519740/4b7f0c3f-040a-4a99-973b-a109ccf95680)
+
 A CLI tool to compress PowerPoint files. This script compresses the size of your .pptx presentations, making them easier to store and share. Just run it, choose your file, and watch the tool compress it without losing quality.
 
 ## Features
